@@ -33,7 +33,7 @@ The GDN has an inherent monetary and volunteer cost. To that end, meetups must m
 * Removal will not occur without discussions with organizers.
 
 **Do organizers lose their autonomy when joining the GDN?**  
-Absolutely not. Joining your Meetup into the GDN just means you become a part of this global network of user groups. By joining, you have direct access to GB volunteers who are helping to administer and support the network. Not every organizer needs the same support, but GB is here to help in anyway they can to support the meetup and their local participants. 
+Absolutely not. Joining your Meetup into the GDN just means you become a part of this global network of user groups. By joining, you have direct access to GB volunteers who are helping to administer and support the network. Not every organizer needs the same support, but GB is here to help in any way they can to support the meetup and their local participants. 
 
 **What support can a user group expect to receive when joining the GDN?**  
 GB is here to help with things like:
