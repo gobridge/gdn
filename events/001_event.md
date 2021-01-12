@@ -18,7 +18,7 @@ We are extremely excited to announce our first GDN Event - a Learning Go - Tips 
 
 Learn how your fellow Gophers learnt Go, are continuing to learn, as well as getting some recommended learning resources.
 
-The event will be hosted by Angelica Hill, and Wilken Rivera. It will feature a range of wonderful speakers from across the community, and across the world, speaking about what they’ve found helpful learning, resources they recommend, as well as tips & tricks to when learning Go.
+The event will be hosted by Angelica Hill, and Wilken Rivera. It will feature a range of wonderful speakers from across the community, and across the world, speaking about what they’ve found helpful learning, resources they recommend, as well as tips & tricks when learning Go.
 
 All the chatter during the event will be in the #learngomeetup Slack channel in Gophers slack.
 
