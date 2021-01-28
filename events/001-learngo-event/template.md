@@ -1,7 +1,7 @@
 
 
 <!-- Featured photo for event -->
-![GDN Logo](../logo/Blue@4x.png)
+![GDN Logo](../../logo/GDN-Featured.png)
 
 <!-- Title for event -->
 #### [GDN Event] Learning Go - Tips for Gophers at All Levels
@@ -28,7 +28,7 @@ All the chatter during the event will be in the #learngomeetup Slack channel in 
 * 3:00 - 3:20PM (GMT/-5): Open discussion with the speakers
 * 3:20 - 3:40PM (GMT/-5): Event Wrap-up
 
-<!-- Featured Speakers posted on main meetup page --> 
+<!-- Featured Speakers posted on main meetup page -->
 **Featured Speakers**:
 * Talk 1: exercism.io - One Platform, Three Perspectives
 
