@@ -13,7 +13,7 @@ General format for new event entries
 Optional Link to recorded livestream if available and or meetup page
 -->
 ### January 27, 2021: Learn Go - Tip for Gophers at All Levels | [Event Template](001-learngo-event/template.md)
-* **exercism.io - One Platform, Three Perspectives** - Nils Muller | [Recording](https://youtu.be/FKXRU_KL9Io) | [Slides](001-learngo-event/learngomeetup-exercism.pdf)
+* **exercism.io - One Platform, Three Perspectives** - Nils Müller | [Recording](https://youtu.be/FKXRU_KL9Io) | [Slides](001-learngo-event/learngomeetup-exercism.pdf)
 * **Journey Before Destination** - Jon Calhoun | [Recording](https://youtu.be/YJ2Be32h5IM)
 * **GoBridge mentoring, workshops, and everything in between** -  Bill Kennedy | [Recording](https://youtu.be/Tst0oI97cvQ)
 * **So you've completed the Tour of Go - what next?** -  Paul Jolly | [Recording](https://www.youtube.com) | [Slides](001-learngo-event/#)
