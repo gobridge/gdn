@@ -14,7 +14,7 @@ Optional Link to recorded livestream if available and or meetup page
 -->
 ### January 27, 2021: Learn Go - Tip for Gophers at All Levels | [Event Template](001-learngo-event/template.md)
 * **exercism.io - One Platform, Three Perspectives** - Nils Müller | [Recording](https://www.youtube.com/watch?v=FKXRU_KL9Io) | [Slides](001-learngo-event/learngomeetup-exercism.pdf)
-* **Journey Before Destination** - Jon Calhoun | [Recording](https://www.youtube.com/watch?v=YJ2Be32h5IM)
+* **Journey Before Destination** - Jon Calhoun | [Recording](https://www.youtube.com/watch?v=YJ2Be32h5IM) | [Slides](001-learngo-event/learngomeetup-jbd.pdf)
 * **GoBridge mentoring, workshops, and everything in between** -  Bill Kennedy | [Recording](https://www.youtube.com/watch?v=Tst0oI97cvQ)
 * **So you've completed the Tour of Go - what next?** -  Paul Jolly | [Recording](https://www.youtube.com/watch?v=rT-vghpwnls) | [Slides](001-learngo-event/#)
 * **Learning Go through Open Source** -  Wilken Rivera | [Recording](https://www.youtube.com/watch?v=-eWTdp58uiY) | [Slides](001-learngo-event/#)
