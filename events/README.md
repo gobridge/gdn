@@ -13,12 +13,12 @@ General format for new event entries
 Optional Link to recorded livestream if available and or meetup page
 -->
 ### March 17, 2021: Going Cloud - A GCP and Go story | [Event Template](002-gcpgo-event/template.md)
-* **Go and Google App Engine** -
-* **Go webapp serverless options in GCP** -
-* **Gotchas using Go to reduce the spread of COVID** -
-* **Go, Cloud Functions and Cloud Tasks** -
-* **From Python to Go on GCP** -
-* **Implementing and Deploying a Cloud Function in Go** -
+* **Go and Google App Engine** - Matthew Holiday
+* **Go webapp serverless options in GCP** - Velentin Deleplace
+* **Gotchas using Go to reduce the spread of COVID** - Seth Vargo
+* **Go, Cloud Functions and Cloud Tasks** - Fred Gurnot
+* **From Python to Go on GCP** - Steve Coffman
+* **Implementing and Deploying a Cloud Function in Go** - Misha Avrekh
 
 ### January 27, 2021: Learn Go - Tip for Gophers at All Levels | [Event Template](001-learngo-event/template.md)
 * **exercism.io - One Platform, Three Perspectives** - Nils Müller | [Recording](https://www.youtube.com/watch?v=FKXRU_KL9Io) | [Slides](001-learngo-event/learngomeetup-exercism.pdf)
