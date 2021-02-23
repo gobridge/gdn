@@ -30,7 +30,7 @@ Featured Talks:
 
 Talk 1: Go and Google App Engine
 
-In this presentation I'll show a couple of GAE apps along with the use of GCP logs, metrics, and profiling to monitor and debug the apps.
+In this presentation Matt will show a couple of GAE apps along with the use of GCP logs, metrics, and profiling to monitor and debug the apps.
 
 One app will have a goroutine leak we can see with profiling; we'll also use profiling to see the CPU & memory use of the second app. We'll add OpenCensus metrics in the second app as well as show how to correlate logs with the GCP trace ID we get in each request header.
 
@@ -54,7 +54,7 @@ Speaker: Seth Vargo, Engineer at Google Cloud
 
 Talk 4: Go, Cloud Functions and Cloud Tasks
 
-How I used Cloud functions to scale up GCP instances in advance of push notifications sent to NYT users. How Cloud Tasks are used to trigger the scaling down.
+How Fred used Cloud functions to scale up GCP instances in advance of push notifications sent to New York Times users. How Cloud Tasks are used to trigger the scaling down.
 
 Speaker: Fred Gurnot, Senior Software Engineer, The New York Times
 
@@ -64,9 +64,8 @@ Khan Academy is moving from a Python 2 Monolith to Go Services, using GraphQL to
 
 Speaker: Steve Coffman, Senior Backend Engineer at Khan Academy
 
-Talk 6: Implementing and Deploying a Cloud Function in Go.
+Talk 6: Implementing and Deploying a Cloud Function in Go
 
-DESCRIPTION - In my presentation, I will walk through the process of writing and deploying a cloud function in Go. I will talk through the authentication options and the deployment parameters, as well as a couple of real-life use cases for cloud functions that my team has worked with.
+In this presentation, Misha will walk through the process of writing and deploying a cloud function in Go. He will talk through the authentication options and the deployment parameters, as well as a couple of real-life use cases for cloud functions that his team has worked with.
 
 Speaker: Misha Avrekh, Software Engineer, The New York Times
-
