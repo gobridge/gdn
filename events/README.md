@@ -12,6 +12,12 @@ General format for new event entries
 
 Optional Link to recorded livestream if available and or meetup page
 -->
+### May 21, 2021: Glorious Go Gals - wonderful womxn talking about their work in Go | [Event Template](003-ggg-event/template.md)
+* **Some practices for logs aggregation and centralization** - Diana Ortega
+* **Crypto Fails and How to Tackle Them in Go** - Anna-Katharina Wickert
+* **Panel Discussion** with Jessica Greene, Natalie Pistunovich, and Ronna Steinberg - All Glorious Gophers based in Berlin.
+* **Simplicity of testing using GoLang** - Thilak Subramanian
+
 ### March 17, 2021: Going Cloud - A GCP and Go story | [Event Template](002-gcpgo-event/template.md)
 * **Go and Google App Engine** - Matthew Holiday
 * **Go webapp serverless options in GCP** - Velentin Deleplace
