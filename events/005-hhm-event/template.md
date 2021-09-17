@@ -15,10 +15,6 @@
 **Description**
 We are extremely excited to announce our fifth GDN Event: Celebrating Hispanic Gophers as part of Hispanic Heritage Month! During the event you will hear from three fellow gophers, Guillermo Galvan, Dario Castañé, and Luis Giovanny Carreno Ortiz, based in Mexico, Spain, and Colombia. They will be speaking about how to build a k8s operator with Go for a Machine Learning App, breaking Docker, and the wonderful simplicity of Go when learning computer science and programming.
 
-For more information on the event and detailed agenda please visit https://www.meetup.com/gobridge/events/280815195/
-
-Looking forward to seeing you there!
-
 All talks will be recorded and streamed on the GDN YouTube Channel https://youtube.com/c/GoDevNet
 
 All the chatter during the event will be in the #hispanicheritagegoevent  Slack channel in Gophers slack (https://invite.slack.golangbridge.org/).
