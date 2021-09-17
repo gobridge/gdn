@@ -21,7 +21,7 @@ Looking forward to seeing you there!
 
 All talks will be recorded and streamed on the GDN YouTube Channel https://youtube.com/c/GoDevNet
 
-All the chatter during the event will be in the #hispanicheritagegoevent   Slack channel in Gophers slack.
+All the chatter during the event will be in the #hispanicheritagegoevent  Slack channel in Gophers slack (https://invite.slack.golangbridge.org/).
 
 Agenda:
 * 5:00 - 5:20PM (UTC) Introductions
