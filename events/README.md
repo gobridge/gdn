@@ -12,11 +12,20 @@ General format for new event entries
 
 Optional Link to recorded livestream if available and or meetup page
 -->
+### September 24, 2021: Celebrating Hispanic Gophers as part of Hispanic Heritage Month! | [Event Template](005-hhm-event/template.md)
+* **Build a K8s operator with Go for a Machine Learning App** - Guillermo Galvan
+* **Oops - I broke Docker. A story about maintaining github.com/imdario/mergo** - Dario Castañé
+* **Go's simplicity and its approach to the learning of computer sciences and programming.** - Luis Giovanny Carreno Ortiz
+
+[Meetup Event Page](https://www.meetup.com/gobridge/events/280815195/) | [Recorded Live Stream](https://www.youtube.com/watch?v=zjv6kbqrWK0)|
+
 ### May 21, 2021: Glorious Go Gals - wonderful womxn talking about their work in Go | [Event Template](003-ggg-event/template.md)
 * **Some practices for logs aggregation and centralization** - Diana Ortega
 * **Crypto Fails and How to Tackle Them in Go** - Anna-Katharina Wickert
 * **Panel Discussion** with Jessica Greene, Natalie Pistunovich, and Ronna Steinberg - All Glorious Gophers based in Berlin.
 * **Simplicity of testing using GoLang** - Thilak Subramanian
+
+[Meetup Event Page](https://www.meetup.com/gobridge/events/277830571/) | [Recorded Live Stream](https://www.youtube.com/watch?v=LhmWFfBiCwg)|
 
 ### March 17, 2021: Going Cloud - A GCP and Go story | [Event Template](002-gcpgo-event/template.md)
 * **Go and Google App Engine** - Matthew Holiday
@@ -25,6 +34,8 @@ Optional Link to recorded livestream if available and or meetup page
 * **Go, Cloud Functions and Cloud Tasks** - Fred Gurnot
 * **From Python to Go on GCP** - Steve Coffman
 * **Implementing and Deploying a Cloud Function in Go** - Misha Avrekh
+
+[Meetup Event Page](https://www.meetup.com/gobridge/events/276379278/) | [Recorded Live Stream](https://youtu.be/vBRInkxrOHs)|
 
 ### January 27, 2021: Learn Go - Tip for Gophers at All Levels | [Event Template](001-learngo-event/template.md)
 * **exercism.io - One Platform, Three Perspectives** - Nils Müller | [Recording](https://www.youtube.com/watch?v=FKXRU_KL9Io) | [Slides](001-learngo-event/learngomeetup-exercism.pdf)
