@@ -12,6 +12,11 @@ General format for new event entries
 
 Optional Link to recorded livestream if available and or meetup page
 -->
+### October 20, 2021: New Mentoring Platform For Go Community | [Event Template](006-mentoring-event/template.md)
+* **A walk through of the Exercism platform. The new mentoring platform for the Go community** - Jeremy Walker
+
+[Meetup Event Page](https://www.meetup.com/gobridge/events/281273738/) | [Recorded Live Stream](https://youtu.be/nXJX2FyeMv0)|
+
 ### September 24, 2021: Celebrating Hispanic Gophers as part of Hispanic Heritage Month! | [Event Template](005-hhm-event/template.md)
 * **Build a K8s operator with Go for a Machine Learning App** - Guillermo Galvan
 * **Oops - I broke Docker. A story about maintaining github.com/imdario/mergo** - Dario Castañé
