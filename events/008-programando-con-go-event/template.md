@@ -30,14 +30,18 @@ Agenda:
 Presentacciones: 
 
 \* Talk 1:  Go: Empoderando mediante simplicidad
+
 Speaker:  Patricio Whittingslow
 
 \* Talk 2: Generics: ¿A dónde vamos desde aquí?
+
 Speaker: Dario Castañé
 
 \* Talk 3: Construyendo un Cliente de API HTTP en Go
+
 Speaker: Juan Brando
 
 \* Talk 4: Hola mundo, desde el código a la pantalla
+
 Speaker: Jesús Espino
 
