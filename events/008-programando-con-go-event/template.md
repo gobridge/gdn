@@ -45,3 +45,5 @@ Speaker: Juan Brando
 
 Speaker: Jesús Espino
 
+
+[\[English Translation\]](https://github-com.translate.goog/gobridge/gdn/blob/master/events/008-programando-con-go-event/template.md?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
