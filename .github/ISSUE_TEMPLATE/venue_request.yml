@@ -1,0 +1,70 @@
+name: Venue Request
+description: Request venue assistance for your next event
+title: "[Venue Request]: "
+labels: ["status/new", "logistics/needs-venue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for working to organize an in-person Go Developer community event!
+
+        You can use this form to request assistance with finding a venue to host your next event. 
+        > **Note**
+        > We will share the provided event details to venues in our network in an effort to find a location that is available to host on the given date, time, and region. 
+        >
+  - type: input
+    id: group-name
+    attributes:
+      label: Hosting Group Name
+      description: What group will be organizing the event (needed to determine group geographical location)?
+      placeholder: ex. GoBridge | https://www.meetup.com/gobridge
+    validations:
+      required: true
+  - type: input
+    id: event-location
+    attributes:
+      label: Event Location
+      description: City, State/Province, Country/Region
+      placeholder: ex. Brooklyn, NY, USA
+    validations:
+      required: true
+  - type: input
+    id: event-date
+    attributes:
+      label: Event Date
+      description: When would you like the venue to host you?  
+      placeholder: ex. Friday June 8, 2023
+    validations:
+      required: true
+  - type: textarea
+    id: event-time
+    attributes:
+      label: Start Time (UTC)
+      description: A list of preferred start times for the event. 
+    validations:
+      required: true
+  - type: dropdown
+    id: virtual
+    attributes:
+      label: Remote Meetup Option 
+      description: If venue is not available would you be interested in setting up a virtual Zoom event?
+      options:
+        - "Yes" 
+        - "No"
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: If you are not a group organizer how can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/gobridge/about-us/blob/master/coc.md)
+      options:
+        - label: I agree to follow the GoBridge Code of Conduct
+    validations:
+      required: true

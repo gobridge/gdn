@@ -1,0 +1,63 @@
+name: Sponsorship Request
+description: Request for sponsorship for your next event
+title: "[Sponsorship Request]: "
+labels: ["status/new", "logistics/needs-sponsor"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for working to organize an in-person Go Developer community event!
+        You can use this form to request sponsorship for your next event.
+
+        > **Warning**
+        > Any form of sponsorship involving monetary expenses must be paid directly by our team. No reimbursements or direct distribution of funds will be accepted.
+        >
+  - type: input
+    id: group-name
+    attributes:
+      label: Hosting Group Name
+      description: What group is organizing the event?
+      placeholder: ex. GoBridge | https://www.meetup.com/gobridge
+    validations:
+      required: true
+  - type: input
+    id: event-location
+    attributes:
+      label: Event Location
+      description: City, State/Province, Country/Region
+      placeholder: ex. Brooklyn, NY, USA
+    validations:
+      required: true
+  - type: input
+    id: event-date
+    attributes:
+      label: Event Date
+      description: When will the event take place?  
+      placeholder: ex. Friday June 8, 2023
+    validations:
+      required: true
+  - type: textarea
+    id: sponsorship
+    attributes:
+      label: Sponsorship Details
+      description: What type of sponsorship is needed for this event?
+      placeholder: Food/Drinks
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details (Optional)
+      description: If not a group organizer how can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/gobridge/about-us/blob/master/coc.md)
+      options:
+        - label: I agree to follow the GoBridge Code of Conduct
+    validations:
+      required: true
