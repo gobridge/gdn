@@ -1,0 +1,32 @@
+name: General Request
+description: For general questions and all other requests
+title: "[General Request]: "
+labels: ["status/new", "question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out to the Go Developer Network team!
+  - type: textarea
+    id: request-details
+    attributes:
+      label: What can we help you with?
+      render: markdown
+    validations:
+      required: true
+  - type: input
+    id: group-name
+    attributes:
+      label: Group Name
+      description: What meetup group are you associated with?
+      placeholder: ex. GoBridge | https://www.meetup.com/gobridge
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: If not a group organizer how can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
