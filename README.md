@@ -2,8 +2,9 @@
 
 To better support Go user groups worldwide, [GoBridge](https://gobridge.org/) and Google have joined forces to create a new program called the Go Developer Network (GDN). The GDN is a collection of Go user groups working together with a shared mission to empower developer communities with the knowledge, experience, and wisdom to build the next generation of software in Go. This network creates a single place for people to search for local user groups, events, and see what other Gophers are doing around the world.
 
-* [GDN Artwork](./logo)
-* [GDN Special Event Templates](./events)
+* [GDN Program Charter](./program_charter.md)
+* [GDN Event Templates](./events)
+* [GDN Public Artwork](./logo)
 
 ### Submit a Request
 
