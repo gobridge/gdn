@@ -8,7 +8,7 @@ To better support Go user groups worldwide, [GoBridge](https://gobridge.org/) an
 
 ### Submit a Request
 
- If you are a member or an organizer of a Go meetup group within the GDN looking for assistance, please feel free to open a [New Issue](ht  tps://github.com/gobridge/gdn/issues/new/choose). Issues are publicly visible. To reach out privately,  please send GoBridge an email at gdn@gobridge.org.
+ If you are a member or an organizer of a Go meetup group within the GDN looking for assistance, please feel free to open a [New Issue](https://github.com/gobridge/gdn/issues/new/choose). Issues are publicly visible. To reach out privately,  please send GoBridge an email at gdn@gobridge.org.
 
 ### How to Join
 
