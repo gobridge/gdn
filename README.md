@@ -36,7 +36,6 @@ The volunteers are a combination of members of the GB leadership team and active
 * Your Meetup must adhere to the Go or GB CoC
 * Your Meetup must primarily focus on topics of relevance to Go developers
 * Your Meetup must hold recurring in-person meetings once per month or least twice every 3 months
-  Or
 * If virtual, Your Meetup must hold recurring meetings once per month.
 
 The GDN has an inherent monetary and volunteer cost. To that end, meetups must meet these requirements to be added to the GDN. Meetups in the GDN that no longer meet these requirements are subject to be removed from the GDN.
